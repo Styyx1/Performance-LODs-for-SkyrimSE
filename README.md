@@ -40,3 +40,8 @@ short explanation of setting up LODs that perform well and look good (subjective
 - Make sure to click on medium after changing the settings
 
 ![alt text](https://github.com/chri3i/Performance-LODs-for-SkyrimSE/blob/main/Dyndolodx64.png)
+
+
+# Credits
+
+- TheSpaniard for providing the settings which i only had to adapt for a newer version of DynDOLOD
